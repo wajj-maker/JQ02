@@ -1,0 +1,2 @@
+#部门工资前三高的员工
+select d.name as 'Department', e1.name as 'Employee', e1.salary as 'Salary' from employee e1, employee e2, department d where e1.departmentId = e2.departmentId and e1.salary < e2.salary and e1.departmentId = d.id group by e1.departmentId, e1.salary having count(distinct e2.salary) <= 2;
