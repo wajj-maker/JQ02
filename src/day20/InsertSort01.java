@@ -11,6 +11,7 @@ public class InsertSort01 {
         insertSort(arr);
         System.out.println(Arrays.toString(arr));
         System.out.println("ÁõÍş°®Ò¶æºâù");
+        System.out.println("ÁõÍşÏ²»¶Ò¶æºâù");
     }
 
     public static void insertSort(int[] arr) {
