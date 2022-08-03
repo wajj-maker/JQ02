@@ -13,8 +13,7 @@ public class InsertSort01 {
         System.out.println("ÁõÍş°®Ò¶æºâù");
         System.out.println("ÁõÍşÏ²»¶Ò¶æºâù");
         System.out.println("ÁõÍş×î°®Ò¶æºâù");
-        System.out.println("ÁõÍşÒ»ÉúÒ»ÊÀÏ²»¶Ò¶æºâù");
-        System.out.println("defheyfey");
+        System.out.println("liuweixihuanyejingyi");
     }
 
     public static void insertSort(int[] arr) {
