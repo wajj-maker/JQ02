@@ -10,6 +10,7 @@ public class InsertSort01 {
         int[] arr = new int[]{32, 23, 12, 11, 0, -23};
         insertSort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println("ÁõÍşÏ²»¶Ò¶æºâù");
     }
 
     public static void insertSort(int[] arr) {
